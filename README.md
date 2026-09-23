@@ -6,7 +6,7 @@ CSE student at East West University focused on **penetration testing, web/networ
 
 - 🔐 Currently preparing for **CEH**
 - 🧪 Practicing on **TryHackMe & Hack The Box**
-- 🏆 **BDSec CTF 2025** — Rank 43/642 teams · **BUET CSE Fest 2024**
+- 🏆 **BDSec CTF 2025** — Rank 43/642 teams · **BUET CSE Fest 2024** -  Placed 25th of 36 finalist teams
 - 🐺 CTF teams: **NullOverflow** & **Cyber Samurai** & **EWUCSC_RootX**
 - 💻 Building security-focused tools and research projects
 
@@ -20,7 +20,7 @@ CSE student at East West University focused on **penetration testing, web/networ
 | 🔑 PKI Security Implementation | Cryptography / PKI | [Link](https://github.com/aishu-sudo/PKI-Securing-Networked-System) |
 | 🌐 Web Security Labs | Web pentesting writeups | [Link](REPO_LINK) |
 | 🔎 Network Security Labs | Recon / enumeration / IDS | [Link](REPO_LINK) |
-| 🕵️ Competition_WriteUps | [Link](REPO_LINK) |
+| 🕵️ Competition_WriteUps  |                           | [Link](REPO_LINK) |
 
 
 
@@ -28,11 +28,11 @@ CSE student at East West University focused on **penetration testing, web/networ
 
 ## 🧰 Toolkit
 
-**Security:** Burp Suite, Nmap, Wireshark, Snort, Metasploit
-**Recon:** Subfinder, WhatWeb, httpx, Katana, crt.sh
-**Systems:** Linux, Kali Linux, Windows
-**Programming:** Python, JavaScript, Node.js, FastAPI
-**Web:** HTML, CSS, React, Next.js
+- **Security:** Burp Suite, Nmap, Wireshark, Snort, Metasploit
+- **Recon:** Subfinder, WhatWeb, httpx, Katana, crt.sh
+- **Systems:** Linux, Kali Linux, Windows
+- **Programming:** Python, JavaScript, Node.js, FastAPI
+- **Web:** HTML, CSS, React, Next.js
 
 ---
 
