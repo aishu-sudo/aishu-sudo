@@ -22,7 +22,7 @@ CSE student at East West University focused on **penetration testing, web/networ
 | 🔎 Reconnaissance | Recon, enumeration & information gathering | [Link](https://github.com/aishu-sudo/PracticeWriteUPS/tree/main/WriteUps/Reconnaissance) |
 | 🖥️ VulnHub | Vulnerable machine penetration testing | [Link](https://github.com/aishu-sudo/PracticeWriteUPS/tree/main/WriteUps/VulnHub) |
 | 📚 Infinity Learning | AI Security | [Link](https://github.com/aishu-sudo/PracticeWriteUPS/tree/main/WriteUps/Infinity_Learning) |
-| 🕵️ Competition_WriteUps  |                           | [Link](REPO_LINK) |
+| 🕵️ Competition_WriteUps  |                           | [Link](https://github.com/aishu-sudo/PracticeWriteUPS/tree/main/WriteUps/Competition_WriteUps) |
 
 
 
