@@ -2,7 +2,7 @@
 
 ### 🛡️ Cybersecurity Student | CTF Player | Security Researcher
 
-CSE student at East West University focused on **penetration testing, web/network security, applied ML security, and digital forensics**.
+CSE student at East West University focused on **penetration testing, web/network security, applied ML security, AI Security and digital forensics**.
 
 - 🔐 Currently preparing for **CEH**
 - 🧪 Practicing on **TryHackMe & Hack The Box**
@@ -18,8 +18,10 @@ CSE student at East West University focused on **penetration testing, web/networ
 |---|---|---|
 | 🛡️ **PhishGuard** | Phishing detection — OSINT recon pipeline (WHOIS/DNS/SSL + infra clustering), hybrid XGBoost + Isolation Forest scoring, Chrome extension with real-time warnings | [Link](https://github.com/aishu-sudo/PhishGuard) |
 | 🔑 PKI Security Implementation | Cryptography / PKI | [Link](https://github.com/aishu-sudo/PKI-Securing-Networked-System) |
-| 🌐 Web Security Labs | Web pentesting writeups | [Link](REPO_LINK) |
-| 🔎 Network Security Labs | Recon / enumeration / IDS | [Link](REPO_LINK) |
+| 🎯 TryHackMe | Hands-on cybersecurity labs | [Link](https://github.com/aishu-sudo/PracticeWriteUPS/tree/main/WriteUps/Try_Hack_Me) |
+| 🔎 Reconnaissance | Recon, enumeration & information gathering | [Link](https://github.com/aishu-sudo/PracticeWriteUPS/tree/main/WriteUps/Reconnaissance) |
+| 🖥️ VulnHub | Vulnerable machine penetration testing | [Link](https://github.com/aishu-sudo/PracticeWriteUPS/tree/main/WriteUps/VulnHub) |
+| 📚 Infinity Learning | AI Security | [Link](https://github.com/aishu-sudo/PracticeWriteUPS/tree/main/WriteUps/Infinity_Learning) |
 | 🕵️ Competition_WriteUps  |                           | [Link](REPO_LINK) |
 
 
